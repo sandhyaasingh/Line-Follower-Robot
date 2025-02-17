@@ -28,8 +28,9 @@ This project demonstrates the working of a line follower robot using Arduino. Th
 3. **Run the Robot**:
    - After the setup, place the robot on a surface with a black line, and it will follow the line autonomously.
 
-## Source Code:
+![line_follower_setup](line_follower_setup.png)
 
+## Source Code:
 ```cpp
 // Line Follower Robot Code
 
@@ -106,8 +107,7 @@ void Stop() {
 }
 ```
 Final Setup:
-
-
+![line_follower](line_follower.png)
 
 ## How It Works:
 1. The robot moves forward by default if both infrared sensors detect the black line.
