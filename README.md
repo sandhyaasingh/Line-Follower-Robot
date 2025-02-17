@@ -106,7 +106,7 @@ void Stop() {
   analogWrite(B, LOW);
 }
 ```
-Final Setup:
+## Final Setup:
 ![line_follower](line_follower.png)
 
 ## How It Works:
